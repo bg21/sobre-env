@@ -1,0 +1,11 @@
+{
+    "name": "juliana/php",
+    "autoload": {
+        "psr-4": {
+            "Juliana\\Php\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
